@@ -1,3 +1,0 @@
-# Hi There
-## How are you?
-### I'm fine thanks for asking :)
