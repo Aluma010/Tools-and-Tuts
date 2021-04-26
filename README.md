@@ -15,6 +15,15 @@ https://www.unpac.me/
 ### De4dot - Awesome tool for unpacking and deobfuscating .NET binaries
 https://github.com/de4dot/de4dot
 
+
+# Windows Binaries Research
+
+## Dynamic Analysis
+
+### ApateDNS - fake DNS responses
+https://www.fireeye.com/content/dam/fireeye-www/services/freeware/sdl-apatedns.zip
+
+
 # Linux Binaries Research
 
 ## Command-Line Tools
