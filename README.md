@@ -24,6 +24,11 @@ https://github.com/de4dot/de4dot
 https://www.fireeye.com/content/dam/fireeye-www/services/freeware/sdl-apatedns.zip
 
 
+## Static Analysis 
+
+### CFF Explorer
+https://ntcore.com/files/ExplorerSuite.exe
+
 # Linux Binaries Research
 
 ## Command-Line Tools
