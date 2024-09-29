@@ -29,9 +29,40 @@ https://www.fireeye.com/content/dam/fireeye-www/services/freeware/sdl-apatedns.z
 ### CFF Explorer
 https://ntcore.com/files/ExplorerSuite.exe
 
-# Linux Binaries Research
+# Windows VM tools essentials
+## General:
+Everything (Don’t forget to enable Regex Search)
+Notepad++
+JavaScript Plugin
+Json Plugin
+7zip
+CFF Explorer
+Hex editor (010 Editor, etc.)
+Grep
+BeyondCompare
+Postman
+## Windows Research:
+IDA (32 and 64 bit)
+X64dbg
+Windows Sysinternals
+.NET research:
+Dnspy (32 and 64 bit)
+DIE (detect-it-easy)
+De4dot (.NET deobjuscator)
+Python research:
+pyinstxtractor
+Uncompyle6 + pycdc
+Wireshark
+Process Explorer
+Send to sha256 (you can use cmd built-in tool “certutil”)
+Visual Studio
+ChromeCookiesView (by Nirsoft)
+Yara
+## Proxy Tools:
+Mitm proxy
+Proxifier
 
-## Command-Line Tools
+# Linux Binaries Research
 
 ## Educational Articles
 
